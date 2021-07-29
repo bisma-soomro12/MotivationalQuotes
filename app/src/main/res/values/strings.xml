@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Motivational Qoutes</string>
+    <string name="affirmation1">It always seems impossible until its done</string>
+    <string name="affirmation2">All our dreams can come true, if we have the courage to pursue them</string>
+    <string name="affirmation3">The secret of getting ahead is getting started</string>
+    <string name="affirmation4">Every challenge in my life is an opportunity to learn from</string>
+    <string name="affirmation5">Only the paranoid survive</string>
+    <string name="affirmation6">It’s hard to beat a person who never gives up</string>
+    <string name="affirmation7">You’ve gotta dance like there’s nobody watching</string>
+    <string name="affirmation8">When one door of happiness closes, another opens</string>
+    <string name="affirmation9">Do one thing every day that scares you</string>
+    <string name="affirmation10">Whatever you are, be a good one</string>
+</resources>
